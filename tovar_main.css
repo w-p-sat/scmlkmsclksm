@@ -345,5 +345,8 @@ input, textarea {
     .coments_flex {
         display: block;
     }
+        .coments{
+        padding: 0 20px;
+    }
 }
   
